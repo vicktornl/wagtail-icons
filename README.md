@@ -41,10 +41,6 @@ WAGTAIL_ICON_SETS = [
 | Font Awesome 6(.0.0-beta3) | `wagtail_icons.contrib.fontawesome.FontAwesome6` |
 | IcoMoon | `wagtail_icons.contrib.icomoon.IcoMoon` |
 
-* Font Awesome 5 
-* Font Awesome 6
-* IcoMoon (for custom icon sets)
-
 ## IcoMoon
 
 If you use the `IcoMoon` iconset please make sure you copy your custom icomoon files to the following directory:
