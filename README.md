@@ -39,7 +39,7 @@ WAGTAIL_ICON_SETS = [
 |------|---------|
 | Font Awesome 5(.15.14) | `wagtail_icons.contrib.fontawesome.FontAwesome5` |
 | Font Awesome 6(.0.0-beta3) | `wagtail_icons.contrib.fontawesome.FontAwesome6` |
-| IcoMoon | `wagtail_icons.contrib.fontawesome.IcoMoon` |
+| IcoMoon | `wagtail_icons.contrib.icomoon.IcoMoon` |
 
 * Font Awesome 5 
 * Font Awesome 6
